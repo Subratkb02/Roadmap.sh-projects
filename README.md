@@ -6,7 +6,7 @@ A responsive CV template built with HTML for junior frontend developers.
 [Live Demo](https://roadmap.sh/projects/single-page-cv)
 
 ## How to Run
-1. Clone the repository: git clone https://github.com/your-username/single-page-cv.git
+1. Clone the repository: git clone https://github.com/Subratkb02/Single-Page-CV.git
 2. Navigate to the project folder: cd single-page-cv
 3. Open index.html in any browser or use VS Code's Live Server.
 
